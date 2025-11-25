@@ -97,6 +97,7 @@ xtitle("Circular Convolution y(n)");
 <img width="815" height="931" alt="image" src="https://github.com/user-attachments/assets/6e3b4510-7d2e-478c-a229-91bf686b3ed5" />
 
 
+
 ## RESULT: 
 
 Linear and Circular Convolution for two given sequence using SCILAB was performed.
