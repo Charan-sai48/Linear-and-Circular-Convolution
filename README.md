@@ -98,3 +98,5 @@ xtitle("Circular Convolution y(n)");
 
 
 ## RESULT: 
+
+Linear and Circular Convolution for two given sequence using SCILAB was performed.
